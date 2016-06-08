@@ -7,4 +7,6 @@ I utilize the graphic library d3. Additionally, for heat-map, I make good use of
 * User could analyze overall atmosphere of music while playing music. 
 * For this project, I only plug pitch but it could be potentially used for any other factors of music.
 
+View demo at http://soyapark45.github.io/ctp403/demo.html 
+
 ![alt tag](https://cloud.githubusercontent.com/assets/3036721/15880958/1e42ff68-2d6d-11e6-9d5a-d21c0c8a1321.png)
